@@ -55,7 +55,7 @@ body{
 }
 
 .header .navbar ul li a:hover{
-    color: #00bfff;
+    color: orange;
     text-decoration: underline;
 }
 
@@ -114,8 +114,8 @@ body{
     position: absolute;
     height: 2.5rem;
     width: 2.5rem;
-    border-top: .4rem solid #002e5f;
-    border-left: .4rem solid #002e5f;
+    border-top: .4rem solid #bacf1c;
+    border-left: .4rem solid #c4be11;
 }
 
 .heading::before{
@@ -244,7 +244,7 @@ body{
             border-radius: 5rem;
             background: white;
             border-style: groove;
-            border-color: #002e5f;
+            border-color: #46eb13;
             font-size: 1.5rem;
             cursor: pointer;
             height: 3.5rem;
