@@ -462,7 +462,7 @@ body{
     }
 
     .header .fa-bars:hover{
-        color: #00bfff;
+        color: hsl(99, 93%, 47%);
     }
 
     .header .navbar{
